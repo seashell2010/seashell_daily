@@ -8,7 +8,7 @@ from selenium import webdriver
 import time
 import json
 import os
-
+import shutil
 
 class Seashell0daydownW:
     def __init__(self, stopurl):
@@ -149,15 +149,17 @@ class Ditem:
             for x in filenames:
                 # print(x)
                 # print(os.path.splitext(x)[0])
-                directory = mypath + os.path.splitext(x)[0]
-                directory = directory.replace("_", ".").replace(".Downloadly.ir", "").replace("Downloadly.ir",
-                                                                                              "").replace("[FileCR]",
-                                                                                                          "").strip()
+
+                nx = x.replace("_Getintopc.com_", "").replace("[FTUApps.com] -", "").replace("_Downloadly.ir", "").strip()
+                directory = mypath + os.path.splitext(nx)[0]
+                directory = directory.replace("_", ".") \
+                    .replace("Downloadly.ir", "") \
+                    .replace("[FileCR]", "").strip()
                 # directory += " _"
 
                 if not os.path.exists(directory):
                     os.makedirs(directory)
-                os.rename(mypath + x, directory + "/" + x)
+                os.rename(mypath + x, directory + "/" + nx)
             break
 
     @staticmethod
@@ -168,11 +170,58 @@ class Ditem:
                 if diritem != newname:
                     os.rename(mypath + diritem, mypath + newname)
 
+    @staticmethod
+    def movefolde2folder(sourcepath,destpath):
+        filenames= os.listdir(sourcepath)
+        print(f"count: {len(filenames)}")
+
+        count = 0
+        for f in filenames:
+
+            # print(f"{count}: {sourcepath+f}")
+            cpt = sum([len(d) for r, d, f in os.walk(sourcepath+f)])
+            if cpt==0:
+                count=count+1
+                print(f"{count}: {sourcepath+f}")
+                filenames= os.listdir(sourcepath+f)
+                print(os.path.splitext(filenames[0])[0])
+                shutil.move(sourcepath+f, destpath+os.path.splitext(filenames[0])[0])
+
+            # for file in os.listdir((sourcepath+f)):
+            #
+            #     cpt = sum([len(d) for r, d, f in os.walk("G:\CS\PYTHONPROJECTS")])
+            #     print(f"{count}: {sourcepath+f+'/'+file}")
+
+
+            #
+            # if cpt ==1:
+                # print(sourcepath+f)
+                # for r, d, files in os.walk(sourcepath+f):
+                #     if len(files)>0:
+                #         print(files)
+                # shutil.move(sourcepath+f, destpath+f)
+
+
+                # if len(dirs)==0 and len(files)==1 :
+                #     print(sourcepath+f+"/"+files[0])
+                #     os.rename(sourcepath+f+"/"+files[0], destpath + files[0])
+                # break
+
+
+
+        # for (dirpath, dirnames, filenames) in os.walk(sourcepath):
+        #     for dir in dirnames:
+        #         print(dir)
+            #
+            # # print(f"d:{len(dirnames)}, f:{len(filenames)}")
+            # if len(dirnames)==0 and len(filenames)==1 :
+            #     print(dirpath+filenames[0])
+            #     # os.rename(sourcepath + filenames[0], destpath + filenames[0])
 
 # mob = Seashell0daydownW("https://www.0daydown.com/02/1001971.html")
 # mob.process()
 # ff = Ditem()
 # ff.folderfiles("/download/@@@@@@MMMMMM/batch/")
 # ff.folderUnFolderFiles('/download/0days/')
-Ditem.replaceinfolder('/download/00000jd/000day/@@@@@SSSSSSSSS/','[FTUApps.com] -','')
+# Ditem.movefolde2folder('/download/00000jd/000book/@@@@NulledPremium.com/','/download/00000jd/000day/@@@@@SSSSSSSSS/')
 Ditem.folderunfolderfiles('/download/00000jd/000day/@@@@@SSSSSSSSS/')

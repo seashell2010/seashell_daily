@@ -18,7 +18,7 @@ class Ditem:
 
         try:
             m_dict = apk.get_manifest()
-        except BadZipFile:
+        except:
             self.isfailed = True
             return
 

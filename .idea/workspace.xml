@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d66c28a3-7e18-4179-a3c7-c4578b819f22" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/.idea/markdown-navigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/Python tutorial by BillieEilish.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/geckodriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/geckodriver.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/phantomjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/phantomjs.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/seashell_daily.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/urls-0daydown-Tutorials.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/urls-0daydown-Windows.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/urls-0daydown-Windows.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/urls-0daydown-Windows1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/urls-Bookflare.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/urls-Mobilism.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/z-post-phone.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/zapk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/zbookflare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/zcoderprog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/zcreateurls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/zdaydown_t.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/zdaydown_w.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seashell_daily/zmobilism.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seashell_daily.iml" beforeDir="false" afterPath="$PROJECT_DIR$/seashell_daily.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urls-Filecr.txt" beforeDir="false" afterPath="$PROJECT_DIR$/urls-Filecr.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zapk.py" beforeDir="false" afterPath="$PROJECT_DIR$/zapk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zdaydown_w.py" beforeDir="false" afterPath="$PROJECT_DIR$/zdaydown_w.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zfilecr.py" beforeDir="false" afterPath="$PROJECT_DIR$/zfilecr.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="e7bd8b83-2b69-4926-887a-30b4c3ee34cf" />
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="rancher" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1ctICQtHozLkaZWrA0xEDm2T4aJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.28998852" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.postfix.templates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.zdaydown_w">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="seashell_daily" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zdaydown_w" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="seashell_daily" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zdaydown_w.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zfilecr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="seashell_daily" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zfilecr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.zdaydown_w" />
+        <item itemvalue="Python.zfilecr" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d66c28a3-7e18-4179-a3c7-c4578b819f22" name="Default Changelist" comment="" />
+      <created>1591341334690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591341334690</updated>
+      <workItem from="1591341338012" duration="790000" />
+      <workItem from="1591412830196" duration="38000" />
+      <workItem from="1591592663080" duration="9000" />
+      <workItem from="1591630938475" duration="6000" />
+      <workItem from="1591636430169" duration="4487000" />
+      <workItem from="1591686362116" duration="561000" />
+      <workItem from="1591829375710" duration="1102000" />
+      <workItem from="1591858956153" duration="459000" />
+      <workItem from="1591980928587" duration="40000" />
+      <workItem from="1591980987002" duration="2043000" />
+      <workItem from="1592157805306" duration="1210000" />
+      <workItem from="1592201156967" duration="11000" />
+      <workItem from="1592239300271" duration="629000" />
+      <workItem from="1592267567543" duration="602000" />
+      <workItem from="1592320533602" duration="607000" />
+      <workItem from="1592378039301" duration="540000" />
+      <workItem from="1592605772933" duration="9000" />
+      <workItem from="1592674693797" duration="630000" />
+      <workItem from="1592696624727" duration="6120000" />
+      <workItem from="1592710233220" duration="11711000" />
+      <workItem from="1592878880935" duration="322000" />
+      <workItem from="1592973639812" duration="5000" />
+      <workItem from="1593046675266" duration="619000" />
+      <workItem from="1593104134389" duration="1239000" />
+      <workItem from="1593184933605" duration="1816000" />
+      <workItem from="1593436284334" duration="7000" />
+      <workItem from="1593524961341" duration="11000" />
+      <workItem from="1593694209676" duration="7000" />
+      <workItem from="1593781775434" duration="5000" />
+      <workItem from="1594040942319" duration="37000" />
+      <workItem from="1594095347814" duration="15000" />
+      <workItem from="1594226744724" duration="5000" />
+      <workItem from="1594276771324" duration="9000" />
+      <workItem from="1594277935320" duration="602000" />
+      <workItem from="1594392948188" duration="10000" />
+      <workItem from="1594772743300" duration="38000" />
+      <workItem from="1594821791984" duration="1377000" />
+      <workItem from="1594907540744" duration="12000" />
+      <workItem from="1595083384392" duration="7000" />
+      <workItem from="1595258799016" duration="18000" />
+      <workItem from="1595312284085" duration="9000" />
+      <workItem from="1595312334780" duration="8000" />
+      <workItem from="1595335929964" duration="4000" />
+      <workItem from="1595384422177" duration="6000" />
+      <workItem from="1595701320873" duration="9000" />
+      <workItem from="1595701378070" duration="33000" />
+      <workItem from="1595870002468" duration="8000" />
+      <workItem from="1596178000290" duration="607000" />
+      <workItem from="1596388109247" duration="602000" />
+      <workItem from="1596477045603" duration="638000" />
+      <workItem from="1596722937049" duration="11000" />
+      <workItem from="1596820575694" duration="608000" />
+      <workItem from="1596941079231" duration="8000" />
+      <workItem from="1597077250069" duration="16000" />
+      <workItem from="1597244696358" duration="8000" />
+      <workItem from="1597419882096" duration="8000" />
+      <workItem from="1597677220346" duration="83000" />
+      <workItem from="1597788527284" duration="9000" />
+      <workItem from="1597898273564" duration="2428000" />
+      <workItem from="1598196308848" duration="1339000" />
+      <workItem from="1598277974936" duration="15000" />
+      <workItem from="1598367934103" duration="15000" />
+      <workItem from="1598456977684" duration="566000" />
+      <workItem from="1598457571902" duration="3160000" />
+      <workItem from="1598598662147" duration="30000" />
+      <workItem from="1598598708642" duration="3657000" />
+      <workItem from="1599000290494" duration="16000" />
+      <workItem from="1599055815494" duration="20000" />
+      <workItem from="1599142067653" duration="22000" />
+      <workItem from="1599227896890" duration="608000" />
+      <workItem from="1599230822889" duration="14000" />
+      <workItem from="1599277343794" duration="25000" />
+      <workItem from="1599325732530" duration="611000" />
+      <workItem from="1599488399905" duration="79000" />
+      <workItem from="1599538660594" duration="1416000" />
+      <workItem from="1599661280470" duration="24000" />
+      <workItem from="1600140949919" duration="134000" />
+      <workItem from="1600190502277" duration="6000" />
+      <workItem from="1600357949943" duration="442000" />
+      <workItem from="1600443769824" duration="181000" />
+      <workItem from="1600536499378" duration="31000" />
+      <workItem from="1600699715510" duration="12000" />
+      <workItem from="1600820610652" duration="5000" />
+      <workItem from="1600872757783" duration="9000" />
+      <workItem from="1600962817644" duration="71000" />
+      <workItem from="1601224879780" duration="8000" />
+      <workItem from="1601391811872" duration="608000" />
+      <workItem from="1601478183275" duration="5000" />
+      <workItem from="1601655626619" duration="10000" />
+      <workItem from="1601736943581" duration="15000" />
+      <workItem from="1601911515862" duration="102000" />
+      <workItem from="1602083178545" duration="5000" />
+      <workItem from="1602117854768" duration="33000" />
+      <workItem from="1602170130699" duration="5000" />
+      <workItem from="1602255087103" duration="605000" />
+      <workItem from="1602508277497" duration="659000" />
+      <workItem from="1602637429399" duration="14000" />
+      <workItem from="1602717594499" duration="603000" />
+      <workItem from="1602812846764" duration="10000" />
+      <workItem from="1602943327234" duration="394000" />
+      <workItem from="1603040317292" duration="8000" />
+      <workItem from="1603040581595" duration="6000" />
+      <workItem from="1603122798082" duration="18000" />
+      <workItem from="1603177733753" duration="6000" />
+      <workItem from="1603201019256" duration="6000" />
+      <workItem from="1603376151747" duration="5000" />
+      <workItem from="1603602310498" duration="18000" />
+      <workItem from="1603718471909" duration="19000" />
+      <workItem from="1603806388164" duration="13000" />
+      <workItem from="1603811604612" duration="6000" />
+      <workItem from="1603897563752" duration="20000" />
+      <workItem from="1603990987313" duration="9000" />
+      <workItem from="1604068359631" duration="62000" />
+      <workItem from="1604151126468" duration="9000" />
+      <workItem from="1604502428252" duration="24000" />
+      <workItem from="1604683334182" duration="53000" />
+      <workItem from="1604798116427" duration="603000" />
+      <workItem from="1604888231893" duration="75000" />
+      <workItem from="1605021301560" duration="98000" />
+      <workItem from="1605203547396" duration="8000" />
+      <workItem from="1605367761225" duration="125000" />
+      <workItem from="1605534758134" duration="8000" />
+      <workItem from="1605712037424" duration="7000" />
+      <workItem from="1605894197662" duration="8000" />
+      <workItem from="1606193226199" duration="8000" />
+      <workItem from="1606316875795" duration="10000" />
+      <workItem from="1606484605007" duration="608000" />
+      <workItem from="1606576531158" duration="80000" />
+      <workItem from="1606749563545" duration="12000" />
+      <workItem from="1607017762160" duration="65000" />
+      <workItem from="1607390032354" duration="606000" />
+      <workItem from="1607441614344" duration="16000" />
+      <workItem from="1607616957079" duration="574000" />
+      <workItem from="1607619355176" duration="4000" />
+      <workItem from="1607740784299" duration="607000" />
+      <workItem from="1607870333525" duration="604000" />
+      <workItem from="1607908351018" duration="9000" />
+      <workItem from="1607908455977" duration="603000" />
+      <workItem from="1607961545545" duration="9000" />
+      <workItem from="1608051481577" duration="9000" />
+      <workItem from="1608094130525" duration="627000" />
+      <workItem from="1608160256635" duration="621000" />
+      <workItem from="1608395174535" duration="672000" />
+      <workItem from="1608916395675" duration="32000" />
+      <workItem from="1609342959449" duration="8000" />
+      <workItem from="1609344089109" duration="5000" />
+      <workItem from="1610039159652" duration="221000" />
+      <workItem from="1610470500412" duration="19000" />
+      <workItem from="1610721224424" duration="23000" />
+      <workItem from="1610722324375" duration="7000" />
+      <workItem from="1611105921466" duration="15000" />
+      <workItem from="1611107402514" duration="631000" />
+      <workItem from="1611120145211" duration="630000" />
+      <workItem from="1611291685052" duration="609000" />
+      <workItem from="1611694345399" duration="123000" />
+      <workItem from="1611770972624" duration="61000" />
+      <workItem from="1612239624878" duration="236000" />
+      <workItem from="1612374475505" duration="23000" />
+      <workItem from="1612623335899" duration="10000" />
+      <workItem from="1612828827579" duration="9000" />
+      <workItem from="1612978209229" duration="10000" />
+      <workItem from="1613230730000" duration="16000" />
+      <workItem from="1614148740467" duration="8000" />
+      <workItem from="1614482148121" duration="13000" />
+      <workItem from="1615224893529" duration="8000" />
+      <workItem from="1615741734800" duration="27000" />
+      <workItem from="1616087868172" duration="9000" />
+      <workItem from="1617125990953" duration="649000" />
+      <workItem from="1618169495052" duration="604000" />
+      <workItem from="1618611887735" duration="708000" />
+      <workItem from="1618976702534" duration="7000" />
+      <workItem from="1619105590999" duration="25000" />
+      <workItem from="1619321572906" duration="218000" />
+      <workItem from="1619846665248" duration="1204000" />
+      <workItem from="1620500106034" duration="200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="driver.find_elements_by_class_name(&quot;product-item&quot;)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/seashell_daily$zfilecr.coverage" NAME="zfilecr Coverage Results" MODIFIED="1591829605303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/seashell_daily$test.coverage" NAME="test Coverage Results" MODIFIED="1592703093908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/seashell_daily$zdaydown_w.coverage" NAME="zdaydown_w Coverage Results" MODIFIED="1619846668128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

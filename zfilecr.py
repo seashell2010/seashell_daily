@@ -25,7 +25,10 @@ class SeashellFilecr:
         options = webdriver.ChromeOptions()
         prefs = {'profile.managed_default_content_settings.images': 2}
         options.add_experimental_option("prefs", prefs)
-        options.add_argument("--headless")
+        options.headless=True
+        # options.add_argument("--headless")
+        # options.add_argument('--no-sandbox')
+        # options.add_argument('--disable-gpu')
         driver = webdriver.Chrome()
         drv = webdriver.Chrome(options=options)
 
@@ -39,7 +42,14 @@ class SeashellFilecr:
             start_i = "https://filecr.com/elearning/?page=" + str(i)
             print(start_i)
             driver.get(start_i)
-            elems = driver.find_elements_by_class_name("product-item")
+
+            check_count=0
+
+            while check_count < 12:
+
+                elems = driver.find_elements_by_class_name("product-item")
+                check_count= len(elems)
+
             j = 0
             for elem in elems:
                 # print(elem.get_attribute("href"))
@@ -75,6 +85,7 @@ class SeashellFilecr:
 
 
 
-z = SeashellFilecr("https://filecr.com/elearning/javascript-everywhere-by-adam-d-scott/")
+
+z = SeashellFilecr("https://filecr.com/elearning/applemagazine/")
 z.process()
 
