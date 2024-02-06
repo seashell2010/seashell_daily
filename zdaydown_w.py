@@ -153,6 +153,7 @@ class Ditem:
                 nx = x.replace("_Getintopc.com_", "").replace("[FTUApps.com] -", "").replace("_Downloadly.ir", "").strip()
                 directory = mypath + os.path.splitext(nx)[0]
                 directory = directory.replace("_", ".") \
+                    .replace("software.201", "software_201") \
                     .replace("Downloadly.ir", "") \
                     .replace("[FileCR]", "").strip()
                 # directory += " _"
@@ -224,4 +225,6 @@ class Ditem:
 # ff.folderfiles("/download/@@@@@@MMMMMM/batch/")
 # ff.folderUnFolderFiles('/download/0days/')
 # Ditem.movefolde2folder('/download/00000jd/000book/@@@@NulledPremium.com/','/download/00000jd/000day/@@@@@SSSSSSSSS/')
-Ditem.folderunfolderfiles('/download/00000jd/000day/@@@@@SSSSSSSSS/')
+# Ditem.folderunfolderfiles('/download/00000jd/000day/@@@@@SSSSSSSSS/')
+Ditem.folderunfolderfiles('/software_201/@@NEW@@/')
+# Ditem.folderunfolderfiles('/download/NAS/')
